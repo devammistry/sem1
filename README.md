@@ -1,3 +1,3 @@
 # sem1_description
  
-more
+more details
